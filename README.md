@@ -1,5 +1,5 @@
 <h1 align="center">
-  #MyPoorCalculator: Calculadora com HTML, CSS e JavaScript#
+  MyPoorCalculator: Calculadora com HTML, CSS e JavaScript!
 
 
 <p align="center">
