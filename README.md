@@ -6,7 +6,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<h4> To run the model,<a href="https://"> visit this link </a>provided by Vercel</h4>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a961632d-50b2-4996-a94b-eff24246f4e9/deploy-status)](https://app.netlify.com/sites/mypoorcalculator/deploys)
 
 
 ## 🚀 Tecnologias
