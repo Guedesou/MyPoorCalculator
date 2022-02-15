@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="MYPoorCalculator" title="Calculadora com HTML, CSS e JavaScript" src="./assets/logo.svg" width="220px" />
+  <"MYPoorCalculator" title="Calculadora com HTML, CSS e JavaScript"/>
 </h1>
 
 
