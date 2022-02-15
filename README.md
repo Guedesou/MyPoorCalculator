@@ -1,6 +1,5 @@
 <h1 align="center">
-  <"MYPoorCalculator" title="Calculadora com HTML, CSS e JavaScript"/>
-</h1>
+  #MyPoorCalculator: Calculadora com HTML, CSS e JavaScript#
 
 
 <p align="center">
