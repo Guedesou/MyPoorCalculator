@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="guedesfinances" title="Calculadora com HTML, CSS e JavaScript" src="./assets/logo.svg" width="220px" />
+  <img alt="MYPoorCalculator" title="Calculadora com HTML, CSS e JavaScript" src="./assets/logo.svg" width="220px" />
 </h1>
 
 
@@ -21,6 +21,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O My Poor Calc é uma calculadora básica para agregar aos meus aprendizados- inclusive de funções e estruturas no JavaScript. ➕➖✖➗ 
-
-<img src="https://imgur.com/wjC7N8h">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZtWhonD" data-context="false" ><a href="//imgur.com/a/ZtWhonD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
