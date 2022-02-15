@@ -22,4 +22,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O My Poor Calc é uma calculadora básica para agregar aos meus aprendizados- inclusive de funções e estruturas no JavaScript. ➕➖✖➗ 
 
-<img src="https://1.bp.blogspot.com/-TfCAA8mlc6A/YCVAzmezLPI/AAAAAAAAAnY/Xn3pI1Pj7UstC4xFhlBnFWys3dkv-GbQACLcBGAsYHQ/s1280/calculadora.png">
+<img src="https://imgur.com/wjC7N8h">
